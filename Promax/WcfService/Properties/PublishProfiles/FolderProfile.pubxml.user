@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Users\Andrew\Documents\WebServicePromax</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Promax.dll">
+      <publishTime>06/08/2017 09:59:23</publishTime>
+    </File>
+    <File Include="bin/Promax.dll.config">
+      <publishTime>05/07/2017 16:38:44</publishTime>
+    </File>
+    <File Include="bin/WcfService.dll">
+      <publishTime>06/08/2017 09:59:28</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>05/25/2017 09:46:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/08/2017 09:59:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

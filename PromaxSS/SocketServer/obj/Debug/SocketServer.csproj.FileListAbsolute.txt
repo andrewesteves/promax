@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.TelaServer.resources
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\SocketServer\obj\Debug\SocketServer.pdb

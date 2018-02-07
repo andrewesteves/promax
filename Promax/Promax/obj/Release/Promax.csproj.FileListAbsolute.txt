@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\bin\Release\Promax.dll.config
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\bin\Release\Promax.dll
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\bin\Release\Promax.pdb
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\obj\Release\Promax.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\obj\Release\Promax.Properties.Resources.resources
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\obj\Release\Promax.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\obj\Release\Promax.dll
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\Promax\obj\Release\Promax.pdb

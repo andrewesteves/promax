@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\WcfService.dll.config
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\WcfService.dll
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\WcfService.pdb
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\Promax.dll
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\Promax.pdb
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\bin\Promax.dll.config
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\obj\Release\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\obj\Release\WcfService.dll
+C:\Users\Andrew\Documents\Unibratec\03\Sistemas distribuídos\02\projeto\Promax\WcfService\obj\Release\WcfService.pdb
